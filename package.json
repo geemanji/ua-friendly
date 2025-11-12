@@ -1,6 +1,6 @@
 {
   "name": "ua-friendly",
-  "version": "1.1.1-beta",
+  "version": "1.1.2",
   "description": "Convert User-Agent strings into friendly, human-readable text",
   "main": "index.js",
   "types": "index.d.ts",
